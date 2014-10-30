@@ -11,12 +11,16 @@
     "Brian Cray"
   ],
   "description": "tooltipsy by Brian Cray",
-  "moduleType": [
-    "globals"
-  ],
   "keywords": [
     "jQuery",
     "tooltip",
     "tooltipsy"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
